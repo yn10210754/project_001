@@ -5,6 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>gateway-service</module>
+        <module>user-service</module>
+        <module>oauth2-service</module>
     </modules>
 
     <parent>
